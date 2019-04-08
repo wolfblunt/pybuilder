@@ -1,0 +1,5 @@
+Collecting unittest-xml-reporting
+  Downloading https://files.pythonhosted.org/packages/7a/84/43c100dcbb042255ed1105c63a700b0310b48b71b01e939ad5c95f1d512e/unittest_xml_reporting-2.5.1-py2.py3-none-any.whl
+Requirement already satisfied: six>=1.4.0 in /usr/lib/python2.7/dist-packages (from unittest-xml-reporting)
+Installing collected packages: unittest-xml-reporting
+Successfully installed unittest-xml-reporting-2.5.1

@@ -1,0 +1,36 @@
+running clean
+'build/lib.linux-x86_64-2.7' does not exist -- can't clean it
+'build/bdist.linux-x86_64' does not exist -- can't clean it
+'build/scripts-2.7' does not exist -- can't clean it
+running bdist_wheel
+running build
+running build_py
+creating build
+creating build/lib.linux-x86_64-2.7
+copying helloworld.py -> build/lib.linux-x86_64-2.7
+installing to build/bdist.linux-x86_64/wheel
+running install
+running install_lib
+creating build/bdist.linux-x86_64
+creating build/bdist.linux-x86_64/wheel
+copying build/lib.linux-x86_64-2.7/helloworld.py -> build/bdist.linux-x86_64/wheel
+running install_egg_info
+running egg_info
+writing pybuilder.egg-info/PKG-INFO
+writing namespace_packages to pybuilder.egg-info/namespace_packages.txt
+writing top-level names to pybuilder.egg-info/top_level.txt
+writing dependency_links to pybuilder.egg-info/dependency_links.txt
+reading manifest file 'pybuilder.egg-info/SOURCES.txt'
+writing manifest file 'pybuilder.egg-info/SOURCES.txt'
+Copying pybuilder.egg-info to build/bdist.linux-x86_64/wheel/pybuilder-1.0.dev0.egg-info
+running install_scripts
+creating build/bdist.linux-x86_64/wheel/pybuilder-1.0.dev0.dist-info/WHEEL
+creating 'dist/pybuilder-1.0.dev0-py2-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
+adding 'helloworld.py'
+adding 'pybuilder-1.0.dev0.dist-info/METADATA'
+adding 'pybuilder-1.0.dev0.dist-info/WHEEL'
+adding 'pybuilder-1.0.dev0.dist-info/namespace_packages.txt'
+adding 'pybuilder-1.0.dev0.dist-info/top_level.txt'
+adding 'pybuilder-1.0.dev0.dist-info/zip-safe'
+adding 'pybuilder-1.0.dev0.dist-info/RECORD'
+removing build/bdist.linux-x86_64/wheel

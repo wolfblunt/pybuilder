@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="1" file="helloworld_tests.py" name="helloworld_tests.HelloWorldTest-20190409005358" skipped="0" tests="1" time="0.003" timestamp="2019-04-09T00:53:58">
+	<testcase classname="helloworld_tests.HelloWorldTest" file="src/unittest/python/helloworld_tests.py" line="7" name="test_should_issue_hello_world_message" time="0.003" timestamp="2019-04-09T00:53:58">
+		<failure message="
+Wanted but not invoked: write('Hello world of Python\n')" type="VerificationError">
+<![CDATA[Traceback (most recent call last):
+  File "/root/pybuilder/src/unittest/python/helloworld_tests.py", line 12, in test_should_issue_hello_world_message
+    verify(out).write("Hello world of Python\n")
+  File "/usr/lib/python2.7/dist-packages/mockito/invocation.py", line 111, in __call__
+    verification.verify(self, len(matched_invocations))
+  File "/usr/lib/python2.7/dist-packages/mockito/verification.py", line 63, in verify
+    raise VerificationError("\nWanted but not invoked: %s" % (invocation))
+VerificationError: 
+Wanted but not invoked: write('Hello world of Python\n')
+]]>		</failure>
+		<system-out>
+<![CDATA[]]>		</system-out>
+		<system-err>
+<![CDATA[]]>		</system-err>
+	</testcase>
+</testsuite>

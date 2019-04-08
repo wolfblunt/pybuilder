@@ -1,0 +1,4 @@
+Collecting coverage~=4.2
+  Downloading https://files.pythonhosted.org/packages/d7/ce/8553e6325b16d8c2ccba52eaebe92bb38bb7c64c8f34ad4ef87fd327b9bb/coverage-4.5.3-cp27-cp27mu-manylinux1_x86_64.whl (201kB)
+Installing collected packages: coverage
+Successfully installed coverage-4.5.3
