@@ -11,11 +11,12 @@
         4, 
         5, 
         6, 
-        8
+        8, 
+        9
       ], 
       "lines_not_covered": [], 
       "module": "helloworld", 
-      "sum_lines": 6, 
+      "sum_lines": 7, 
       "sum_lines_not_covered": 0
     }
   ], 
