@@ -3,3 +3,6 @@ import sys
 def helloworld(out):
 	out.write('hello Aman')
 	out.write('hello Apar')
+	print("Hello World")
+
+print("Hello Aman")
