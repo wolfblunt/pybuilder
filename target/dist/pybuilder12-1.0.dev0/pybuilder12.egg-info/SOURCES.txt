@@ -1,0 +1,8 @@
+helloworld.py
+setup.py
+pybuilder12.egg-info/PKG-INFO
+pybuilder12.egg-info/SOURCES.txt
+pybuilder12.egg-info/dependency_links.txt
+pybuilder12.egg-info/namespace_packages.txt
+pybuilder12.egg-info/top_level.txt
+pybuilder12.egg-info/zip-safe

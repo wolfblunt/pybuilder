@@ -15,9 +15,9 @@ writing manifest file 'pybuilder.egg-info/SOURCES.txt'
 warning: sdist: standard file not found: should have one of README, README.rst, README.txt, README.md
 
 running check
-warning: check: missing required meta-data: url
+warning: Check: missing required meta-data: url
 
-warning: check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
+warning: Check: missing meta-data: either (author and author_email) or (maintainer and maintainer_email) must be supplied
 
 creating pybuilder-1.0.dev0
 creating pybuilder-1.0.dev0/pybuilder.egg-info

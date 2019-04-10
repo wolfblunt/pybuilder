@@ -22,7 +22,7 @@ writing top-level names to pybuilder.egg-info/top_level.txt
 writing dependency_links to pybuilder.egg-info/dependency_links.txt
 reading manifest file 'pybuilder.egg-info/SOURCES.txt'
 writing manifest file 'pybuilder.egg-info/SOURCES.txt'
-Copying pybuilder.egg-info to build/bdist.linux-x86_64/wheel/pybuilder-1.0.dev0.egg-info
+Copying pybuilder.egg-info to build/bdist.linux-x86_64/wheel/pybuilder-1.0.dev0-py2.7.egg-info
 running install_scripts
 creating build/bdist.linux-x86_64/wheel/pybuilder-1.0.dev0.dist-info/WHEEL
 creating 'dist/pybuilder-1.0.dev0-py2-none-any.whl' and adding 'build/bdist.linux-x86_64/wheel' to it
