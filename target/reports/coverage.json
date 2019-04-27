@@ -18,11 +18,12 @@
         12, 
         13, 
         14, 
-        15
+        15, 
+        16
       ], 
       "lines_not_covered": [], 
       "module": "helloworld", 
-      "sum_lines": 13, 
+      "sum_lines": 14, 
       "sum_lines_not_covered": 0
     }
   ], 
