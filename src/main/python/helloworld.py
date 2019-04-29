@@ -1,8 +1,8 @@
 import sys
 #hello
 def helloworld(out):
-	out.write('hello Aman')
-	out.write('hello Apar')
+	out.write('hello meow')
+	out.write('hello Aparna')
 	print("Hello World")
 
 print("Hello Aman")
@@ -15,6 +15,6 @@ print("Hurray")
 print("Hello sir")
 print("Successful Build")
 print("Good Job Aman")
-print("Hello everyone 123456789")
+print("Hello Raghav")
 
 
