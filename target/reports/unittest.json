@@ -1,10 +1,5 @@
 {
   "errors": [], 
-  "failures": [
-    {
-      "test": "helloworld_tests.HelloWorldTest.test_should_issue_hello_world_message", 
-      "traceback": "Traceback (most recent call last):\n  File \"/root/pybuilder/src/unittest/python/helloworld_tests.py\", line 12, in test_should_issue_hello_world_message\n    verify(out).write(\"hello Aman\")\n  File \"/usr/lib/python2.7/dist-packages/mockito/invocation.py\", line 111, in __call__\n    verification.verify(self, len(matched_invocations))\n  File \"/usr/lib/python2.7/dist-packages/mockito/verification.py\", line 63, in verify\n    raise VerificationError(\"\\nWanted but not invoked: %s\" % (invocation))\nVerificationError: \nWanted but not invoked: write('hello Aman')\n"
-    }
-  ], 
+  "failures": [], 
   "tests-run": 1
 }
