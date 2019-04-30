@@ -1,0 +1,14 @@
+Docker Commands :
+
+$systemctl start docker 
+
+To build images
+$docker build -t amanimage:1.0 .
+
+To run image
+$docker run amanimage:1.0
+
+Push Image to DockerHub
+$docker tag amanimage:1.0 wolfblunt/amanimage
+$docker push wolfblunt/amanimage
+
